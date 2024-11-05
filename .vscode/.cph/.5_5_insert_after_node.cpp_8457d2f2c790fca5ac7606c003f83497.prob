@@ -1,0 +1,1 @@
+{"name":"Local: 5_5_insert_after_node","url":"d:\\Data-structure-implementation\\.vscode\\5_5_insert_after_node.cpp","tests":[{"id":1730544617249,"input":"3\n1 3 6\n2\n15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Data-structure-implementation\\.vscode\\5_5_insert_after_node.cpp","group":"local","local":true}
